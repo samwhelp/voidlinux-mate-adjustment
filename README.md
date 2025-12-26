@@ -47,13 +47,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Mate Adjustment](https://samwhelp.github.io/mate-adjustment/) | [GitHub](https://github.com/samwhelp/mate-adjustment) |
-| [Pardus Mate Adjustment](https://samwhelp.github.io/pardus-mate-adjustment/) | [GitHub](https://github.com/samwhelp/pardus-mate-adjustment) |
 | [Debian Mate Adjustment](https://samwhelp.github.io/debian-mate-adjustment/) | [GitHub](https://github.com/samwhelp/debian-mate-adjustment) |
 | [Ubuntu Mate Adjustment](https://samwhelp.github.io/ubuntu-mate-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-mate-adjustment) |
 | [Fedora Mate Adjustment](https://samwhelp.github.io/fedora-mate-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-mate-adjustment) |
 | [Archlinux Mate Adjustment](https://samwhelp.github.io/archlinux-mate-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-mate-adjustment) |
-| [Manjaro Mate Adjustment](https://samwhelp.github.io/manjaro-mate-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-mate-adjustment) |
-| [Solus Mate Adjustment](https://samwhelp.github.io/solus-mate-adjustment/) | [GitHub](https://github.com/samwhelp/solus-mate-adjustment) |
+
 
 
 
